@@ -5,6 +5,7 @@ article{
     align-items: center;
     height: 100%;
     flex-direction: column;
+    background-color: #ffffff;
 }
 
 .emoji{
