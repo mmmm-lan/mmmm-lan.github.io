@@ -1,0 +1,23 @@
+
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+}
+
+.emoji{
+    font-size:45px;
+    margin:-10px;
+}
+.img-container img{
+    width: 100%;
+    padding: 10px 0;
+}
+
+@media (max-width: 450px) {
+  .introduce {
+    font-size: 18px;
+  }
+}
